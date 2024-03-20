@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Integrating IAM Access Analyzer into a CI/CD Pipeline**
 
-- 🌱 I’m currently learning **IBM DevOps and Software Engineering Professional Certificate**
+- 🌱 I’m currently learning **DevOps and Software Engineering Professional Certificate**
 
 - 💬 Ask me about **AWS, HTML, JavaScript, Python**
 
