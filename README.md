@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thabelo-m&label=Profile%20views&color=0e75b6&style=flat" alt="thabelo-m" /> </p>
 
-- 🔭 I’m currently working on **Deploying a web application to Amazon EC2 || CI/CD Deploy web application to AWS EC2**
+- 🔭 I’m currently working on **Creating a CRUD Serverless API on AWS**
 
 - 🌱 I’m currently learning **DevOps and Software Engineering Professional Certificate**
 
